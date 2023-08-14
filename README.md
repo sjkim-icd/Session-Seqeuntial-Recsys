@@ -2,7 +2,7 @@
 
 ## 1. Papers
 * [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf) (2016, Balazs Hidasi)
-* [Neural Aentive Session-based Recommendation](https://arxiv.org/pdf/1711.04725.pdf) (2017, Jing Li)
+* [Neural Attentive Session-based Recommendation](https://arxiv.org/pdf/1711.04725.pdf) (2017, Jing Li)
 * [NISER: Normalized Item and Session Representations to Handle Popularity Bias](https://arxiv.org/pdf/1909.04276.pdf) (2021, Priyanka Gupta)
 * [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (2018, Wang-Cheng Kang)
 * [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (2019, Fei Sun)
