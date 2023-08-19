@@ -1,1 +1,1 @@
-
+This code is based on GRU4REC-pytorch[https://github.com/hungpthanh/GRU4REC-pytorch] that is implemented by hungpthanh.
